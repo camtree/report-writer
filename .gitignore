@@ -1,0 +1,14 @@
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# IDE-local settings
+.idea/workspace.xml
+.idea/**/workspace.xml
